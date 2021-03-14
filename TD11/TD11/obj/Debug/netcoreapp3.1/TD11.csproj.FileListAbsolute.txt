@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.exe
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.deps.json
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.runtimeconfig.json
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.dll
+C:\Users\elias\source\repos\TD11\TD11\bin\Debug\netcoreapp3.1\TD11.pdb
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.dll
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.pdb
+C:\Users\elias\source\repos\TD11\TD11\obj\Debug\netcoreapp3.1\TD11.genruntimeconfig.cache

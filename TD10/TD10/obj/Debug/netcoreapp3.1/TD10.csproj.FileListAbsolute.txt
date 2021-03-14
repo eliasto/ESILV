@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.exe
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.deps.json
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.runtimeconfig.json
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.dll
+C:\Users\elias\source\repos\TD10\TD10\bin\Debug\netcoreapp3.1\TD10.pdb
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.dll
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.pdb
+C:\Users\elias\source\repos\TD10\TD10\obj\Debug\netcoreapp3.1\TD10.genruntimeconfig.cache

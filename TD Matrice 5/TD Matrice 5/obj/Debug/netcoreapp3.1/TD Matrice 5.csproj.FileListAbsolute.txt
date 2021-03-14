@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.exe
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.deps.json
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.runtimeconfig.json
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.dll
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\bin\Debug\netcoreapp3.1\TD Matrice 5.pdb
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.dll
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.pdb
+C:\Users\elias\source\repos\TD Matrice 5\TD Matrice 5\obj\Debug\netcoreapp3.1\TD Matrice 5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.exe
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.deps.json
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.runtimeconfig.json
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.dll
+C:\Users\elias\source\repos\TD8\TD8\bin\Debug\netcoreapp3.1\TD8.pdb
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.dll
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.pdb
+C:\Users\elias\source\repos\TD8\TD8\obj\Debug\netcoreapp3.1\TD8.genruntimeconfig.cache

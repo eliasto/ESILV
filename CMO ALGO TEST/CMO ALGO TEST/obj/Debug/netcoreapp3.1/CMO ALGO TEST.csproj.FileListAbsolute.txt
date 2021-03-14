@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.exe
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.deps.json
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.runtimeconfig.json
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.runtimeconfig.dev.json
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.dll
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\bin\Debug\netcoreapp3.1\CMO ALGO TEST.pdb
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.AssemblyInfo.cs
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.dll
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.pdb
+C:\Users\elias\source\repos\CMO ALGO TEST\CMO ALGO TEST\obj\Debug\netcoreapp3.1\CMO ALGO TEST.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.exe
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.deps.json
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.runtimeconfig.json
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.dll
+C:\Users\elias\source\repos\TD9\TD9\bin\Debug\netcoreapp3.1\TD9.pdb
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.dll
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.pdb
+C:\Users\elias\source\repos\TD9\TD9\obj\Debug\netcoreapp3.1\TD9.genruntimeconfig.cache

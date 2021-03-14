@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.exe
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.deps.json
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.runtimeconfig.json
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.dll
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\bin\Debug\netcoreapp3.1\TD 1 ALGO TABL.pdb
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.dll
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.pdb
+C:\Users\elias\source\repos\TD 1 ALGO TABL\TD 1 ALGO TABL\obj\Debug\netcoreapp3.1\TD 1 ALGO TABL.genruntimeconfig.cache

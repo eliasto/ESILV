@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.exe
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.deps.json
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.runtimeconfig.json
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.dll
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\bin\Debug\netcoreapp3.1\TD 4 ALGO TAB.pdb
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.dll
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.pdb
+C:\Users\elias\source\repos\TD 4 ALGO TAB\TD 4 ALGO TAB\obj\Debug\netcoreapp3.1\TD 4 ALGO TAB.genruntimeconfig.cache
