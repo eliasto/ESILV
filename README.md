@@ -8,7 +8,7 @@ N'hésitez pas à cloner ce `repository` sur Visual Studio par exemple pour avoi
 
  1. Lancer Visual Studio
  2. Cliquer sur `clôner un dépôt`
- 3. Entrer l'adresse suivante: `https://github.com/eliasto/esilv.git`
+ 3. Entrer l'adresse suivante: `https://github.com/eliasto/ESILV.git`
  4. Cliquer sur **clôner** en bas à droite.
  5. Attendre la fin du téléchargement. Vous pouvez ensuite naviguer sur les différents TD via l'onglet à droite: *Explorateur de solutions - Vues*
 
