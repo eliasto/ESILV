@@ -1,4 +1,4 @@
-# Bienvenue !
+# 👋 Bienvenue !
 Cette page GitHub regroupera un grand ensemble des TD d'algorithmique. Veuillez les garder pour vous, et seulement pour vous, je vous fais confiance.
 
 N'hésitez pas à cloner ce `repository` sur Visual Studio par exemple pour avoir les algorithmes.
