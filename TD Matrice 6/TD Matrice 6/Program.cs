@@ -248,28 +248,39 @@ namespace TD_Matrice_6
         }
         static void exo7()
         {
-            int[,] ProduitMatriciel(int[,]m1,int[,]m2)
+            int[,] ProduitMatriciel(int[,] m1, int[,] m2)
             {
-                if (m1 != null && m1.Length != 0 &&m2!=null&&m2.Length!=0)
+                int[,] matrice = null;
+                int colonne;
+                int ligne;
+                if (m1 != null && m1.Length != 0 && m2 != null && m2.Length != 0 && m1.GetLength(0)==m2.GetLength(1))
                 {
-                    int[,] matrice = new int[m1.GetLength(0), m1.GetLength(1)];
-                    for(int i = 0; i < m1.GetLength(0); i++)
-                    {
-                        for(int j = 0; j < m1.GetLength(1); j++)
-                        {
+                    colonne = m1.GetLength(0);
+                    ligne = m2.GetLength(1);
 
+                    matrice = new int[colonne, ligne];
+
+
+                    for (int i = 0; i < colonne; i++)
+                    {
+                        for(int j = 0; j < ligne; j++)
+                        {
+                            int valeur = 0;
+                            for(int azimout = 0; azimout < m1.GetLength(1); azimout++)
+                            {
+                                valeur = valeur + m1[i, azimout] * m2[azimout, j];
+                            }
+                            matrice[i,j] = valeur;
                         }
                     }
-                    return matrice;
-                }else
-                {
-                    return null;
-                }
-                }
-            int[,] m2 = { { 9, 10, 11, 12 }, { 5, -6, 7, 8 }, { 9, 10, 11, 12 } };
-            int[,] m1 = { { 5, -6, 7, 8 }, { 5, -6, 7, 8 }, { 9, 10, 11, 12 } };
-            AfficherMatrice(ProduitMatriciel(m1, m2));
-        }
 
+                }
+                return matrice;
+            }
+            int[,] m2 = { { 1, 2}, { 0, -1 } };
+            int[,] m1 = { {3,-2 }, { 4, -3 } };
+            AfficherMatrice(ProduitMatriciel(m1, m2));
+
+        }
     }
 }
