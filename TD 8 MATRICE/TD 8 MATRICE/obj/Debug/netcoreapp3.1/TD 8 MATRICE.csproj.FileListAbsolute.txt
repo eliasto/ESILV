@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.exe
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.deps.json
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.runtimeconfig.json
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.dll
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\bin\Debug\netcoreapp3.1\TD 8 MATRICE.pdb
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.dll
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.pdb
+C:\Users\elias\source\repos\TD 8 MATRICE\TD 8 MATRICE\obj\Debug\netcoreapp3.1\TD 8 MATRICE.genruntimeconfig.cache
