@@ -1,0 +1,13 @@
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.exe
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.deps.json
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.runtimeconfig.json
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.runtimeconfig.dev.json
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.dll
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\bin\Debug\netcoreapp3.1\TD 9 TAB.pdb
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.AssemblyInfo.cs
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.dll
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.pdb
+C:\Users\elias\source\repos\TD 9 TAB\TD 9 TAB\obj\Debug\netcoreapp3.1\TD 9 TAB.genruntimeconfig.cache
